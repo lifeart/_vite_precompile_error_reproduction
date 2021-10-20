@@ -1,0 +1,26 @@
+{
+  "name": "glimmerx-workshop",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite"
+  },
+  "resolutions": {
+    "**/@glimmer/validator": "0.77.6",
+    "**/@glimmer/owner": "0.77.6"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.15.8",
+    "@glimmerx/component": "^0.6.5",
+    "@glimmerx/core": "^0.6.5",
+    "@glimmerx/helper": "^0.6.5",
+    "@glimmerx/modifier": "^0.6.5",
+    "@glimmer/owner": "0.77.6",
+    "@glimmer/validator": "0.77.6",
+    "@glimmerx/babel-preset": "^0.6.5",
+    "typescript": "^4.3.2",
+    "vite": "^2.6.4"
+  },
+  "volta": {
+    "node": "16.11.0"
+  }
+}
